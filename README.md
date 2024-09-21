@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hello, I'm Colorless-Onoin. I am eager to learn on GitHub and contribute my part to this community.
+I like comic books, espacially Tokyo Ghoul.
 <!--
 **Colorless-Onion/Colorless-Onion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
